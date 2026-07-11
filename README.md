@@ -1,5 +1,13 @@
 # CV-Based Face Recognition Attendance System
 
+## Screenshots
+
+**API Documentation (Swagger UI)**
+![Swagger UI](screenshots/swagger-docs.png)
+
+**Live Attendance Data in Firestore**
+![Firestore Data](screenshots/firestore-data.png)
+
 A computer-vision + AI attendance system: a camera detects a student's face,
 recognizes it against a database of registered faces, and marks attendance
 automatically. Backend is **FastAPI**, database is **Firebase Firestore**,
