@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+.env
+firebase-credentials.json
+known_faces/*.jpg
+known_faces/*.png
+*.log
+.DS_Store
+.vscode/
+.idea/
